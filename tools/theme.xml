@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Tools</text>
+  </text>
+</view>    
+
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Tools</text>
+    <fontSize>0.15</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.16</pos>
+    <size>0 0</size>
+</text>
+  <text name="shortdescription" extra="true">
+   <text>Useful tools</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Various tools available for your system</text>
+  </text>
+ </view>
+</theme>
