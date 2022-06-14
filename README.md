@@ -1,6 +1,10 @@
-## EpicNoir RetroPie Theme
+## EpicNoir RetroPie Theme Hand Held Variation
 
-This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
+This is a revised iteration of the EpicNoir theme, optimized for hand held devices running RetroPie/EmulationStation
+I added a few missing panels, as well as optimized some typography scaling.
+
+
+All based on the modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 
 ---
 
