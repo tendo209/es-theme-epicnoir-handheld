@@ -62,6 +62,11 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
        cd ~/.emulationstation/themes
        git clone https://github.com/tendo209/es-theme-epicnoir-handheld.git --branch master
 
+#### Manual installation
+
+Download and decompress the zipped folder and paste it in your EmulationStation themes folder. Then within ES, install the new theme.
+
+
 ### Update
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
@@ -77,24 +82,6 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 
 
 ---
-
-### Screenshots
-
-![Sample01](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/001.jpg) \
-![Sample02](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/002.jpg) \
-![Sample03](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/003.jpg) \
-![Sample04](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/004.jpg) \
-![Sample05](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/005.jpg) \ 
-![Sample06](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/006.jpg) \
-![Sample07](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/007.jpg) \
-![Sample08](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/008.jpg) \
-![Sample09](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/009.jpg) \
-![Sample10](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/010.jpg) \
-![Sample11](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/011.jpg) \
-![Sample12](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/012.jpg) \
-![Sample13](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/013.jpg) 
-
-
 
 ## Fully Supported Systems
 ###### (backgrounds, controller images, descriptions) :
